@@ -1,0 +1,7 @@
+{
+  name: 'Harshit',
+  username: 'harshit51',
+  email: 'rajputharshit37@gmail.com',
+  password: 'H725j2@#',
+  role: 'admin'
+}
